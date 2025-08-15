@@ -1,2 +1,2 @@
-# Rishabh_ML_Prac
+# Rishabh_ML_AI
 practice project for machine learning
